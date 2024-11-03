@@ -5,9 +5,7 @@ this was a test project for me to implement MultiThreading and to work with stre
 
 
 ## Features
-
-- Downloading Files
-- Chunk size File transportation
+- Chunk size File Downloading
 - MultiThreading
 - Syncronization
 
